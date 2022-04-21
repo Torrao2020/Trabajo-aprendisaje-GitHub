@@ -1,2 +1,4 @@
 def sumar(a,b):
     return a+b
+if name = oto:
+    print("Hola mundo")
