@@ -4,3 +4,5 @@ if name = oto:
     print("Hola mundo")
 Ejecutar sumar(2,3)
 Ejecutar divi(a,b)
+Ejecutar producto-(a,b)
+ejecutar Exp(a,b)
